@@ -72,3 +72,4 @@ Considero que el código propuesto cumple los requisitos solicitados en el plant
 
 Intenté muchas veces corregir esos problemas, investigué en la medida de lo posible como solucionar esos problemas y aunque se solucionaron cosas que podian elevar el consumo de gas, no me fué posible encontrar una solución.
 
+Mi intención no es dar disculpas, pero busqué opciones para corregir y entregar todo lo solicitado en el planteamientop inicial, considero que la lógica está correcta y los principales puntos se cumplen, desafortunadamente no encontré la forma de desplegar y que funcionara el código correctamente.  En un proyecto real eso es inaceptable, pero por eso estoy en un proceso de aprendizaje.
