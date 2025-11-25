@@ -65,3 +65,10 @@ acceptTransfer(1); // ID de la transferencia
 OpenZeppelin: ReentrancyGuard (para seguridad).
 Solidity: ^0.8.20 (protección nativa contra overflows).
 
+
+
+
+Considero que el código propuesto cumple los requisitos solicitados en el planteamiento del proyecto, se presentan problemas de consumo de gas y tamaño del código que no permiten que se pueda desplegar y funcionar.
+
+Intenté muchas veces corregir esos problemas, investigué en la medida de lo posible como solucionar esos problemas y aunque se solucionaron cosas que podian elevar el consumo de gas, no me fué posible encontrar una solución.
+
